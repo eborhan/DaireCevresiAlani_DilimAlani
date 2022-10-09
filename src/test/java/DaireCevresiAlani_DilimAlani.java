@@ -17,7 +17,7 @@ public class DaireCevresiAlani_DilimAlani {
 
         System.out.println("Dairenin çevresi: "+daireCevre);
         System.out.println("Dairenin alanı: "+daireAlan);
-        System.out.println("Dilim alanı: "+daireCevre);
+        System.out.println("Dilim alanı: "+dilimAlan);
 
 
 
